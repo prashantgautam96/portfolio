@@ -8,11 +8,11 @@
 
 }
 .card {
-    background-color: aqua;
+    background-color: rgb(224, 233, 246);
     margin: 20px;
 }
 .left-container{
-    
+    text-decoration: solid;
     display: flex;
     width: min-content;
 }
