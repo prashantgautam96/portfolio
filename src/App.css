@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+/* .container {
+  margin: 10rem;
+  display: flex;
+  transition: width 2s, height 4s;
+  
+} */
+.round-par {
+  background: #1db7d9;
+}
+.round {
+  border-radius: 80px;
+  margin-right: 50px;
+  
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+
+.typed-out {
+  overflow: hidden;
+  border-right: .15em solid orange;
+  font-size: 1.6rem;
+  width: 0;
+}
+
+.center {
+  width: 5rem;
+  transition:all
+}
+

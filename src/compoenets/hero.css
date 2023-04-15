@@ -1,0 +1,23 @@
+.hero{
+    flex-direction: row;
+    margin: 100px;
+}
+.github {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card {
+    background-color: aqua;
+    margin: 20px;
+}
+.left-container{
+    
+    display: flex;
+    width: min-content;
+}
+
+.right-container{
+    
+    margin-top: 50px;
+}
